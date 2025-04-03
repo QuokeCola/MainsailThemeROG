@@ -1,4 +1,4 @@
-﻿# industrial-mainsail-theme
+﻿# ROGArmouryCrate-Liked Mainsail Theme
 This is a theme for  <a href="https://docs.mainsail.xyz">Mainsail</a>.
 
 ## Setup
